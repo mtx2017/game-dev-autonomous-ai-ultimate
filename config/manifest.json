@@ -1,0 +1,20 @@
+{
+  "name": "game-dev-autonomous-ai-ultimate",
+  "display_name": "GAME DEV AUTONOMOUS AI ULTIMATE",
+  "version": "1.0.0",
+  "status": "documentation-specification",
+  "language": "pt-BR",
+  "platforms": ["PC", "Cloud"],
+  "engines": ["Roblox", "Unity"],
+  "integrations": ["Blender", "Tripo3D", "ComfyUI", "Ollama", "Codex", "Claude Code", "GitHub"],
+  "autonomy_levels": [0, 1, 2, 3, 4],
+  "default_mode": "READ_ONLY",
+  "project_protection": {
+    "original_projects_read_only_by_default": true,
+    "separate_development_workspace": true,
+    "critical_operations_require_specific_approval": true
+  },
+  "runtime_implemented": false,
+  "adapters_validated": false,
+  "tests_passed": false
+}
